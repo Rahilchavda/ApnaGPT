@@ -167,10 +167,9 @@ This project is open-source under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Developed by [Your Name]**  
-📧 Contact: [your.email@example.com]  
-🔗 GitHub: [@your-username](https://github.com/your-username)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+**Developed by Rahil Chavda**  
+📧 Contact: rahilchavda@icloud.com  
+🔗 GitHub: [@RahilChavda](https://github.com/Rahil-Chavda)  
 
 ---
 
